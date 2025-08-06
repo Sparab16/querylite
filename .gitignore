@@ -1,0 +1,15 @@
+.github
+.venv
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.tsv
+*.qlite
+*.egg-info
+*.ipynb
+examples
+docs
+*.DS_Store
