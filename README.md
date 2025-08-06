@@ -142,3 +142,17 @@ QueryLite supports basic SQL queries including:
 - Comparison operators: =, !=, <>, <, >, <=, >=
 - LIKE and NOT LIKE operators for pattern matching
 - Basic AND conditions in WHERE clause
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Author
+
+**Shreyas Parab**
+
+- GitHub: [@Sparab16](https://github.com/Sparab16)
